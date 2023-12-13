@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Users\\hp\\Downloads\\mysql-connector-j-8.2.0\\mysql-connector-j-8.2.0\\mysql-connector-j-8.2.0.jar"
+		]
+	}
+}
